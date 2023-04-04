@@ -1,6 +1,7 @@
 # Loja-de-Vinhos
 Análise de dados de uma grande loja de vinhos usando apenas recursos do pandas
 Foi feito ETL dos dados e Análises. 
+
 Alguns insights:
 
 1 - O número de dias da ultima compra é muito interessante para observamos alvos potenciais para as próximas campanhas afim de trazer esses clientes de volta. os clientes passaram, em média, 59 dias sem fazer compras na loja.
